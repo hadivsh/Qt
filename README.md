@@ -1,1 +1,2 @@
 # Qt
+Learning c++ & Qt
